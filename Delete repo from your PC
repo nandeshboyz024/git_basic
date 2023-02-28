@@ -1,0 +1,7 @@
+How to delete repo which may b cloned by you from github.
+step first - You will try to delete it directly as usual then may be it will deleted.
+step 2 - If it is not deleted then it will show an access denied error like
+          You need to provide administrator permission to action on this folder or file.
+Sigma step for permission grant of administrator - delete it by Shift + Delete
+          Then it will show Two option for permenantly deleted then choose "yes"
+And Done.
